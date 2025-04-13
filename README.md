@@ -43,8 +43,8 @@ streamlit run app.py
 ## 📬 Contact
 
 For research collaboration or support:
-- 📧 your.email@example.com
-- 🧑‍💻 GitHub: [yourusername](https://github.com/yourusername)
+- 📧 alamin.ite.su@gmail.com
+- 🧑‍💻 GitHub: [yourusername](https://github.com/Alamin-Advance)
 
 ---
 
