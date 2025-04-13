@@ -26,7 +26,7 @@ This Streamlit app allows you to visualize and compare scheduling results for th
 
 | CPU Utilization | Gantt Chart |
 |-----------------|--------------|
-| ![CPU](assets/cpu_utilization.png) | ![Gantt](assets/gantt_chart.png) |
+| ![CPU](assets/cpu.png) | ![Gantt](assets/gantt.png) |
 
 ## ⚙️ Setup Locally
 
